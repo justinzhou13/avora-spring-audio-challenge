@@ -43,7 +43,12 @@ src/
 
 Fork this repo and get nerdy with a visualization that you find super cool.
 
-When you're ready, deploy your solution and send the URL + link to your submission's github repo to careers@getavora.ai
+When you're ready, deploy your solution and send the URL + link to your submission's github repo to careers@getavora.ai.
+
+In your submission, please also include:
+- A title for your visualization
+- A short description of the work you built
+- Some of the design or implementation decisions you made along the way
 
 We evaluate solutions on craft and novelty. You may use any AI tools that you like in this process.
 
